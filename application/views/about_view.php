@@ -10,7 +10,7 @@
 
 <body>
 
-<p>Par mums</p>
+<p>Par mums ar lielo burtu</p>
 <?=$name; ?>
 <?=$surname; ?>
 <?=$age; ?>
