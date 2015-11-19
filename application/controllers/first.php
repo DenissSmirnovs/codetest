@@ -38,6 +38,8 @@
 </html>
 
 
+<!--my first git commit-->
+<p> Hello GitHub </p> 
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
